@@ -6,3 +6,5 @@ This repository is built step by step in the tutorial.
 Esta línea de código es una prueba de edición directo desde GitHub
 Otra línea de código para probar pull
 Otra línea de código en la rama readme, uaa rama local
+
+Cambio ligero para entender ramas y cambios directos
